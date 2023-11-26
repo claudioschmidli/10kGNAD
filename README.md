@@ -2,7 +2,7 @@
 <h2><center>NLP Project work, FHNW Brugg</center></h2>
 <h3><center>Base Classifier</center></h3>
 <h4><center>Claudio Schmidli</center></h4>
-<h4><center>30.06.2023</center></h4>
+<h4><center>27.11.2023</center></h4>
 
 ## Introduction
 This project involves training various NLP classification models on the "German news article" dataset, known as the 10k German News Articles Dataset (10kGNAD). This dataset, part of the One Million Posts Corpus, is crucial for German topic text classification and is available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Its significance lies in addressing the lack of comprehensive German language datasets, which are more common in English.
