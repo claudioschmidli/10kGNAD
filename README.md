@@ -1,10 +1,8 @@
-<div style="text-align: center;">
-  <h1><a href="https://tblock.github.io/10kGNAD/">Ten Thousand German News Articles Dataset</a></h1>
-  <h2>NLP Project work, FHNW Brugg</h2>
-  <h3>Base Classifier</h3>
-  <h4>Claudio Schmidli</h4>
-  <h4>27.11.2023</h4>
-</div>
+<h1 align="center">Ten Thousand German News Articles Dataset</h1>
+<h2 align="center"> NLP Project work, FHNW Brugg</h2>
+<h3 align="center">Base Classifier</h3>
+<h4 align="center">Claudio Schmidli</h4>
+<h4 align="center">27.11.2023</h4>
 
 ## Introduction
 This project involves training various NLP classification models on the "German news article" dataset, known as the 10k German News Articles Dataset (10kGNAD). This dataset, part of the One Million Posts Corpus, is crucial for German topic text classification and is available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Its significance lies in addressing the lack of comprehensive German language datasets, which are more common in English.
